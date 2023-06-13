@@ -107,6 +107,7 @@ best_model = load_model(filepath='models/cnn-parameters-improvement-23-0.91.mode
 
 4. The original data in the folders named 'yes' and 'no'. And, the augmented data in the folder named 'augmented data'.
 
+In this I have updated a the ReLU function for better activation and get better outputs.
 
 Contributes are welcome!
 <br>Thank you!
